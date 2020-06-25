@@ -16,6 +16,7 @@ thisIsCrazy();
     console.log("hey!!!")
   }
 }
+crazy();
 
 
 function sayMyName() {
