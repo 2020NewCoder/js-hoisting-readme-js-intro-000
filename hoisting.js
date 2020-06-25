@@ -10,8 +10,8 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-thisIsCrazy();
-
+var= me thisIsCrazy(){
+  
   var thisIsCrazy = function (){
     console.log("hey!!!")
   }
