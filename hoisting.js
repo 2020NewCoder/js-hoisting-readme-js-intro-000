@@ -26,9 +26,9 @@ function sayMyName() {
 
 
   function sayMy() {
-      var name
+      var name = "Kristin";
     console.log(name);
-   = "Kristin";
+  
   }
   sayMy();
 }
