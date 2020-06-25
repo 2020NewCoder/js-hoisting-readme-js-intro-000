@@ -16,6 +16,7 @@ var= me thisIsCrazy(){
     console.log("hey!!!")
   }
 }
+}
 crazy();
 
 
